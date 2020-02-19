@@ -1,6 +1,6 @@
-# Modified by DrRadical15.
-# Created by SethBling.
-# http://youtube.com/SethBling
+# Mapify
+# Created by Acaran (2019)
+# acaran101.wordpress.com
 
 import random
 
