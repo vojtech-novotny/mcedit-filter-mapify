@@ -1,5 +1,5 @@
 # mcedit-filter-mapify
-McEdit filter "Mapify" that replaces blocks at Y=255 with selected block if there is a block in that column of the selection.
+McEdit filter "Mapify" that replaces blocks at Y=255 with chosen block if there is a block in that column of the selection.
 
 Effectively allows you to automatically generate workiing custom maps for CTM maps that have a bedrock layer at the top of the world covering up the whole world.
 
